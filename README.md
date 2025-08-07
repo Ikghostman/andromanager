@@ -28,11 +28,11 @@ This tool can be used to automate Android devices files and  applications manage
 
 # Screenshots
 
-![Screenshot Page 1](docs/Screenshot_1.png)
-![Screenshot Page 2](docs/Screenshot_2.png)
-![Screenshot Page 3](docs/Screenshot_3.png)
-![Screenshot Page 4](docs/Screenshot_4.png)
-![Screenshot Page 5](docs/Screenshot_5.png)
+![Screenshot Page 1](docs/Screenshot-1.png)
+![Screenshot Page 2](docs/Screenshot-2.png)
+![Screenshot Page 3](docs/Screenshot-3.png)
+![Screenshot Page 4](docs/Screenshot-4.png)
+![Screenshot Page 5](docs/Screenshot-5.png)
 
 
 # Features 
@@ -74,11 +74,11 @@ If all are are set up , __Android Manage Tool__ runs using `python3 main.py` or 
 
 #### On Linux / macOS :
 
-Make sure all the [required](https://github.com/ik-ghostman/androidmanager#requirements) software are installed.
+Make sure all the [required](https://github.com/ikghostman/androidmanager#requirements) software are installed.
 
 Open terminal and paste the following commands : 
 ```
-git clone https://github.com/ik-ghostman/androidmanager.git
+git clone https://github.com/ikghostman/androdmanager
 ```
 ```
 cd androidmanager/
@@ -236,7 +236,7 @@ or Visit this link : [Visit this Link](https://nmap.org/download.html)
 
 # Developer
 
-**Ik Ghostman** - [@IkG-hostman](https://github.com/ik-ghostman/)
+**Ik Ghostman** - [@IkG-hostman](https://github.com/ikghostman/)
  
 
-Copyright © 2025 Ismael .K Ghostman (github.com/ik-ghostman)
+Copyright © 2025 Ismael .K Ghostman (github.com/ikghostman)
