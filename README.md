@@ -20,7 +20,7 @@ This tool can be used to automate Android devices files and  applications manage
 
 # Special Thanks
 
-* All thansk to `Mohd Azeem` for the full futured tool __PhoneSploit-Pro__ disponible at: [here]("https://github.com/azeemidrissi/PhoneSploit-Pro")
+* All thansk to `Mohd Azeem` for the full futured tool __PhoneSploit-Pro__ disponible at: [here](https://github.com/azeemidrissi/PhoneSploit-Pro)
 
 * Thank to this blog [here](https://blog-cyber.riskeco.com/en/analysis-of-samsung-frp-bypass/) 
 
@@ -28,11 +28,11 @@ This tool can be used to automate Android devices files and  applications manage
 
 # Screenshots
 
-![Screenshot Page 1](docs/Screenshot-1.png)
-![Screenshot Page 2](docs/Screenshot-2.png)
-![Screenshot Page 3](docs/Screenshot-3.png)
-![Screenshot Page 4](docs/Screenshot-4.png)
-![Screenshot Page 5](docs/Screenshot-5.png)
+![Screenshot Page 1](docs/screenshot_1.png)
+![Screenshot Page 2](docs/screenshot_2.png)
+![Screenshot Page 3](docs/screenshot_3.png)
+![Screenshot Page 4](docs/screenshot_4.png)
+![Screenshot Page 5](docs/screenshot_5.png)
 
 
 # Features 
