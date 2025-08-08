@@ -87,7 +87,7 @@ cd androidmanager/
 pip3 install -r requirements.txt
 ```
 ```
-python3 seup_check.py or python3 main.py
+python3 setup_check.py or python3 main.py
 ```
 
 # Tutorial
