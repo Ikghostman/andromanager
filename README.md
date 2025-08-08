@@ -236,7 +236,7 @@ or Visit this link : [Visit this Link](https://nmap.org/download.html)
 
 # Developer
 
-**Ik Ghostman** - [@IkG-hostman](https://github.com/ikghostman/)
+**Ik Ghostman** - [@ikghostman](https://github.com/ikghostman/)
  
 
 Copyright © 2025 Ismael .K Ghostman (github.com/ikghostman)
