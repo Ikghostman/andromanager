@@ -78,7 +78,7 @@ Make sure all the [required](https://github.com/ikghostman/androidmanager#requir
 
 Open terminal and paste the following commands : 
 ```
-git clone https://github.com/ikghostman/androdmanager
+git clone https://github.com/ikghostman/andromanager
 ```
 ```
 cd androidmanager/
