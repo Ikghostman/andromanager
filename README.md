@@ -4,10 +4,12 @@
 Andromanager is a sophisticated tool for managing your Android applications and projects seamlessly.
 
 ## Features
-- Efficient project management
 - User-friendly interface
-- Cloud integration
-- Multi-device support
+- Android Files Management
+- Applications Management
+- FRP Bypass integration
+- Local Network Scan for devices
+- Remote Android Management
 
 ## Installation
 1. Clone the repository:
@@ -18,16 +20,20 @@ Andromanager is a sophisticated tool for managing your Android applications and 
    ```bash
    cd andromanager
    ```
-3. Install dependencies:
+3. Check & Install dependencies:
    ```bash
-   npm install
+   python3 -m pip install rich
+   python3 setup_check.py
    ```
 
 ## Usage
 Run the application using:
 ```bash
-npm start
+python3 main.py
 ```
+## Important Notes
+Android Manage Tool is not protable
+✅ Tesetd on Linux (Kali Linux)
 
 ## Contributing
 We welcome contributions! Please check out our [contributing guidelines](CONTRIBUTING.md) before making a change.
@@ -35,5 +41,5 @@ We welcome contributions! Please check out our [contributing guidelines](CONTRIB
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Contact
-For any inquiries, please email [support@andromanager.com](mailto:support@andromanager.com).
+## About Autbor
+Ik Ghostman [G-Technologie]
